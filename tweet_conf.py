@@ -1,0 +1,6 @@
+consumer_key = "rFhVoAGSy4lUzXpcB35bF4x7e"
+consumer_secret_key = "rtL2gzypamFFBvO6B5l0MhXsuht0Lxg605KwEoC8PDApK7GCxt"
+access_token = "753927859178053634-NKCHNUw3MrdtqdUVa8PHkuEdcOJzxcY"
+access_secret_token = "9sJ2bnnk8LbZUIpQZqJmOC75sFDcQX0uMGcD9Kc50oG6L"
+bolt_api_key = "2fbe3157-9541-4458-b0e5-b73fdd479644"
+device_id = "BOLT13768366"
