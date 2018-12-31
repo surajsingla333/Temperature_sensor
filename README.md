@@ -10,20 +10,27 @@ The device is build so that if the temperature crosses a certain minimum or maxi
 These type of devices are very useful in pharmaceuticals factories where a strict monitoring of temperature is required.
 
 Devices used :
+
 Bolt IoT module,
 LM35
 
 Software: 
+
 Python3,
 Twilio(for SMS sending),
 MailGun(for Email sending),
 Tweepy(a twitter API for sending tweets)
 
 File Description:
-conf.py  email_conf.py  temp_email.py  temp_sms.py  tweet_conf.py  tweet_temp.py
+
 "conf.py" has the configuration details for the device and twilio api.
+
 "temp_sms.py" has the code to do the task and SMS sending.
+
 "email_conf.py" has the configuration details for the device and mailgun api.
+
 "temp_email.py" has the code to do the task and Email sending.
+
 "tweet_conf.py" has the configuration details for the device and tweepy api.
+
 "tweet_temp.py" has the code to do the task and sending tweets.
